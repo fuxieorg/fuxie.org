@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fuxie.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Fu Xie'
 theme = "shiro"
+
+[params]
+  description = 'My personal website, built with Hugo.'
+  github = 'https://github.com/fuxieorg/fuxie.org'
+  email = 'hello@fuxie.org'
