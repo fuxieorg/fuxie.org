@@ -2,6 +2,7 @@ baseURL = 'https://fuxie.org/'
 languageCode = 'en-us'
 title = 'Fu Xie'
 theme = "shiro"
+enableRobotsTXT = true
 
 [params]
   description = 'My personal website, built with Hugo.'
